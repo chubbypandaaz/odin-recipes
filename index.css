@@ -1,10 +1,12 @@
 .title {
     text-align: center;
     background-color: rgb(171, 81, 255);
+    font-size: 48px;
 }
 
 .links .item {
     text-align: center;
+    font-size: 36px;
 }
 
 .tira {
